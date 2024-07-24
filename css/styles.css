@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     background-color: #E5E5E5;
+    color: #2e2f42
 
 }
 
@@ -13,6 +14,11 @@ a {
 ul, ol {
     list-style: none;
 }
+
+button {
+    cursor: pointer;
+}
+
 h2 {
     font-weight: 700;
     font-size: 36px;
