@@ -158,3 +158,6 @@ span {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
+.fotter >span {
+    color: #f4f4fd;
+}
