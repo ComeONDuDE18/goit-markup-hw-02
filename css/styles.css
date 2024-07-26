@@ -102,7 +102,21 @@ span {
 .button:hover {
     background-color: #404bbf;
 }
-.page-tittle .tittle {
+.team-list {
+    background-color: #FFFFFF;
+
+}
+.portfolio-list {
+    background-color: #F4F4FD;
+}
+.page-tittle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:  #2e2f42;
+}
+.tittle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -110,7 +124,7 @@ span {
     color: #2e2f42;
 }
 
-.page-tittle .text-tittle {
+.text-tittle {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -120,28 +134,28 @@ span {
 .item-class {
         background-color: #FFFFFF;
 }
-.page-tittle-two .foto-tittle {
+.foto-tittle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.page-tittle-two .foto-text {
+.foto-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.page-tittle-three .foto-tittle {
+.foto-tittle {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.page-tittle-three .foto-text {
+.foto-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -158,6 +172,12 @@ span {
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
-.fotter >span {
+.footer >span {
     color: #f4f4fd;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.7;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
